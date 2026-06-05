@@ -1,0 +1,7 @@
+# raw data — too large / licensed, download via data/DOWNLOAD.md
+data/*.csv
+data/*.zip
+# Power BI working files (commit a cleaned copy intentionally)
+*.pbix.tmp
+~$*
+.DS_Store
